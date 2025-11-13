@@ -18,10 +18,10 @@
 
     @include square(var(--size));
 
-    background: url('../../../future-tech/icons/star_gray.svg') center / contain no-repeat;
+    background: url('../future-tech/icons/star_gray.svg') center / contain no-repeat;
 
     &.is-active {
-      background: url('../../../future-tech/icons/star_yellow.svg') center / contain no-repeat;
+      background: url('../future-tech/icons/star_yellow.svg') center / contain no-repeat;
     }
 
     @include laptop {
