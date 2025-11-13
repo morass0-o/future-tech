@@ -51,7 +51,7 @@
 
       content: '';
       background:
-        url('../future-tech/icons/arrow-down_white.svg') center / contain no-repeat;
+        url('/icons/arrow-down_white.svg') center / contain no-repeat;
       transition-duration: var(--transition-duration);
 
       @include laptop {
